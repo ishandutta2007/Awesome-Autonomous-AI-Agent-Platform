@@ -68,7 +68,7 @@ Key focus areas include:
 
 ## 🔓 Open-Source GitHub Projects 🌐
 
-*Sorted by GitHub Star Count (Descending)* ⭐
+*Sorted by GitHub Stars_Count (Descending)* ⭐
 
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
   **The vision of accessible AI for everyone**, MIT licensed. **~170k+ stars**. AutoGPT is one of the pioneering open-source autonomous agent platforms enabling recursive task execution, internet browsing, file management, and long-term memory management. 🤖
@@ -117,7 +117,7 @@ Contributions are actively welcomed! Follow these steps to suggest new autonomou
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Star Count badge, license details, and factual descriptions.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license details, and factual descriptions.
 4. 🚀 Submit a **Pull Request** with a descriptive title detailing your additions.
 
 ---
